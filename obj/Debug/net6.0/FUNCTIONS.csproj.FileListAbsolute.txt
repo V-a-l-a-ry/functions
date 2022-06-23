@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\FUNCTIONS\bin\Debug\net6.0\FUNCTIONS.exe
+C:\Users\user\Desktop\FUNCTIONS\bin\Debug\net6.0\FUNCTIONS.deps.json
+C:\Users\user\Desktop\FUNCTIONS\bin\Debug\net6.0\FUNCTIONS.runtimeconfig.json
+C:\Users\user\Desktop\FUNCTIONS\bin\Debug\net6.0\FUNCTIONS.dll
+C:\Users\user\Desktop\FUNCTIONS\bin\Debug\net6.0\FUNCTIONS.pdb
+C:\Users\user\Desktop\FUNCTIONS\obj\Debug\net6.0\FUNCTIONS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FUNCTIONS\obj\Debug\net6.0\FUNCTIONS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FUNCTIONS\obj\Debug\net6.0\FUNCTIONS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FUNCTIONS\obj\Debug\net6.0\FUNCTIONS.AssemblyInfo.cs
+C:\Users\user\Desktop\FUNCTIONS\obj\Debug\net6.0\FUNCTIONS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FUNCTIONS\obj\Debug\net6.0\FUNCTIONS.dll
+C:\Users\user\Desktop\FUNCTIONS\obj\Debug\net6.0\refint\FUNCTIONS.dll
+C:\Users\user\Desktop\FUNCTIONS\obj\Debug\net6.0\FUNCTIONS.pdb
+C:\Users\user\Desktop\FUNCTIONS\obj\Debug\net6.0\FUNCTIONS.genruntimeconfig.cache
+C:\Users\user\Desktop\FUNCTIONS\obj\Debug\net6.0\ref\FUNCTIONS.dll
